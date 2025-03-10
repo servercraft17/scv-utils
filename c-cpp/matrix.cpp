@@ -1,9 +1,7 @@
 #include "matrix.hpp"
 #include <stdlib.h>
-#include "common.hpp"
 
 float reserved =0;
-
 
 SS_Matrix::SS_Matrix() {
     this->GPUMatrixData=NULL;

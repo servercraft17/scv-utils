@@ -2,8 +2,7 @@
 #define VECTOR_HPP
 
 #include <type_traits>
-
-#include "common.hpp"
+#include <math.h>
 
 /*
  *
