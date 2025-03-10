@@ -1,0 +1,3 @@
+Any library in here must be as easy to implement into a project as possible. NO COMPLICATED ASS BUILD SYSTEM SHIT!
+Every C/CPP library must have a 'build.mk' file that makes it easy to include into projects, if it requires that it is built.
+Usage of libraries outside of the libraries in here should be kept to a minimum, and for C/C++, they must be either headeronly or easy to build, nothing like building SDL or TensorFlow, with the exception of Boost.

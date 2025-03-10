@@ -1,0 +1,4 @@
+- Finish all the libraries.
+- Make as many of the C/CPP libraries header only as possible.
+- Make all the C/CPP libraries usable by both languages, or a seperate variant of it.
+- Get rid of the SS naming scheme from the C/CPP libraries.
